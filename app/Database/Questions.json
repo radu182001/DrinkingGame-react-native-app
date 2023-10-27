@@ -365,7 +365,7 @@
         "people": 3
     },
     {
-        "action": "_ have you ever slept with someone in a relationship? If so, take 3 penalties.",
+        "action": "_ have you ever slept with someone in a relationship? if so, take 3 penalties.",
         "penalty": "",
         "people": 1
     },
@@ -488,5 +488,65 @@
         "action": "name different ways to say 'you're f*cking'. _ you start",
         "penalty": "if you repeat, or can't think of one, take 2 penalties",
         "people": 1
+    },
+    {
+        "action": "_ what's the most illegal thing you've ever done in your life?",
+        "penalty": "if you can't say, take 3 panalties",
+        "people": 1
+    },
+    {
+        "action": "_ who is your favorite person in this room?",
+        "penalty": "that person can give out 2 penalties",
+        "people": 1
+    },
+    {
+        "action": "_ who would you rather not be in this room with right now?",
+        "penalty": "if you can't say, take 3 panalties",
+        "people": 1
+    },
+    {
+        "action": "_ what is the grossest thing you've done that you would be grossed out by if someone else did?",
+        "penalty": "if you can't say, take 3 panalties",
+        "people": 1
+    },
+    {
+        "action": "_ and _, what is the cheesiest pick-up line you know? vote on the best",
+        "penalty": "winner gives out 2 penalties",
+        "people": 2
+    },
+    {
+        "action": "_ and _, what's the weirdest place you've ever had to go to the bathroom? vote on the best",
+        "penalty": "winner gives out 2 penalties",
+        "people": 2
+    },
+    {
+        "action": "_ have you ever ditched someone on the first date? if so, take 3 penalties.",
+        "penalty": "",
+        "people": 1
+    },
+    {
+        "action": "_ have you ever developed inappropriate feelings for someone who is dating your friend?",
+        "penalty": "if so, take 3 penalties.",
+        "people": 1
+    },
+    {
+        "action": "_ would you ever hook up with someone twice your age? if so, take 2 penalties.",
+        "penalty": "",
+        "people": 1
+    },
+    {
+        "action": "_ if you've ever tasted your pet's food, take 3 penalties",
+        "penalty": "",
+        "people": 1
+    },
+    {
+        "action": "_ have you ever done something naughty with a teacher?",
+        "penalty": "if so, take 5 penalties.",
+        "people": 1
+    },
+    {
+        "action": "_ and _, who's the most embarrassing person you know? vote on the best",
+        "penalty": "winner gives out 2 penalties",
+        "people": 2
     }
 ]
